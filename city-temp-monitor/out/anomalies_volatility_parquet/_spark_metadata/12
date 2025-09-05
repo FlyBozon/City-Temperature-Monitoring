@@ -1,0 +1,3 @@
+v1
+{"path":"file:///data/output/anomalies_volatility_parquet/part-00000-7fe8f1c3-396c-401e-9791-1683eb900d92-c000.snappy.parquet","size":818,"isDir":false,"modificationTime":1757005200684,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///data/output/anomalies_volatility_parquet/part-00001-1a4c2767-7de3-4114-b614-3ddc2d115015-c000.snappy.parquet","size":2103,"isDir":false,"modificationTime":1757005200721,"blockReplication":1,"blockSize":33554432,"action":"add"}
