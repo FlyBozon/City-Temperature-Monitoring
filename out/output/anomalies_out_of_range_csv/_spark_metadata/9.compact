@@ -1,0 +1,11 @@
+v1
+{"path":"file:///data/output/anomalies_out_of_range_csv/part-00000-c7fe3252-2d2a-452d-88ef-bbe0feb9b92b-c000.csv","size":41,"isDir":false,"modificationTime":1757004870113,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///data/output/anomalies_out_of_range_csv/part-00000-6bfc73bb-45bf-466c-8aea-fbe86e23b521-c000.csv","size":41,"isDir":false,"modificationTime":1757004871492,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///data/output/anomalies_out_of_range_csv/part-00000-6a040d54-2115-46d1-bfe1-d60d3437eb79-c000.csv","size":41,"isDir":false,"modificationTime":1757004885419,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///data/output/anomalies_out_of_range_csv/part-00000-8b141d0f-0024-423b-913b-f2b246ed7178-c000.csv","size":41,"isDir":false,"modificationTime":1757004900425,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///data/output/anomalies_out_of_range_csv/part-00000-77058729-9cca-4fc5-98c1-c811c9ac667b-c000.csv","size":41,"isDir":false,"modificationTime":1757004915423,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///data/output/anomalies_out_of_range_csv/part-00000-7afa8975-038d-41dd-9834-36ce160c20f3-c000.csv","size":41,"isDir":false,"modificationTime":1757004930427,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///data/output/anomalies_out_of_range_csv/part-00000-b54acc7f-e413-4627-9dfb-c810a42f43df-c000.csv","size":41,"isDir":false,"modificationTime":1757004945429,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///data/output/anomalies_out_of_range_csv/part-00000-9cbaa255-8e6b-4fdb-80e3-2f706a084298-c000.csv","size":41,"isDir":false,"modificationTime":1757004960434,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///data/output/anomalies_out_of_range_csv/part-00000-3555a6a2-7522-4893-8481-23b1b5d1bf29-c000.csv","size":41,"isDir":false,"modificationTime":1757004975437,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///data/output/anomalies_out_of_range_csv/part-00000-7719d777-4d4d-4791-b37e-1a57250ba439-c000.csv","size":41,"isDir":false,"modificationTime":1757004990440,"blockReplication":1,"blockSize":33554432,"action":"add"}
